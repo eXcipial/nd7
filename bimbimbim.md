@@ -12,10 +12,15 @@
 ~~***BIMBIMBIM***~~
 <center>
 
-` *BIMBIMBIM* `
+` BIMBIMBIM `
 
-` **BIMBIMBIM** `
+` BIMBIMBIM `
 
-` ***BIMBIMBIM*** `</center>
+` BIMBIMBIM `
+</center>
 
+# ` BIMBIMBIM `
 
+## ` BIMBIMBIM `
+
+### ` BIMBIMBIM `
